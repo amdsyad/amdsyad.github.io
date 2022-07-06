@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [OSCP](./posts/oscp.md)
+# [OSCP](./review/oscp.md)
 
 # OSWE
 
