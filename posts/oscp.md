@@ -5,4 +5,4 @@ layout: default
 # From Unknown to Have Something (OSCP)
 
 
-[back](./)
+[back](../index.md)
