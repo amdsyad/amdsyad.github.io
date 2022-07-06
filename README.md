@@ -1,4 +1,4 @@
 # amdsyad.github.io
-Hello world  :)
+Hello world :wave:
 
-:wave:
+
