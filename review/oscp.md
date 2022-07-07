@@ -9,15 +9,19 @@ Hi all here i will share my journey to become an “OSCP” certified holder
 
 ![oscp](/images/oscp/offsec.png)
 
+
 ## My prior experience
 
 I have worked in InfoSec for around 2 years.I felt like doing OSCP would better help me to find and critical thinking when conduct penetration testing.
+
 
 ## What did I use to study?
 
 I will go into some more detail about these resources after; however, I used Virtual Hacking Labs, Hack the Box, PWK, Ippsec Videos and Tib3rius’ privilege escalation courses.
 
+
 ## Virtual Hacking Labs
+
 
 
 ## Hack The Box
@@ -27,10 +31,11 @@ I’m sure the vast majority have already heard of Hack The Box. It’s a great 
 ![oscp-box](/images/oscp/oscp(box).jpeg)
 
 
-## Ippsec Videos [ippsec-video](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+## [Ippsec Video](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 
 
 I think this is one of the most crucial things you can do, watch IppSec’s videos in your free time, even boxes that would be considered too hard for OSCP. You could learn something from a harder box and apply it during your exam. You’ll also be able to see how he enumerates each port/service and add that to your methodology. I would suggest first attempting the boxes before watching the IppSec tutorials, especially for the more OSCP-esque boxes. Best of all it’s free!.
+
 
 ## PWK
 
@@ -40,10 +45,15 @@ PWK is the course for OSCP from Offensive Security. In the end I only completed 
 
 I didn’t end up submitting the lab report and exercises as there were just too many exercises. However, I would probably suggest doing so if you have the time; those 5 extra points could be crucial.
 
-## Tools 
+
+## Tools / Resources 
 
 - [Tib3rius’ Privilege Escalation courses](https://www.udemy.com/course/windows-privilege-escalation/?referralCode=9A533B41ECB74227E574)
+- [AutoRecon](https://github.com/Tib3rius/AutoRecon)
+- [Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
+- [PEAS](https://github.com/carlospolop/PEASS-ng)
 
+**Finally don’t expect to much on scripts i post try to understand manually how the thing works.**
 
 
 
