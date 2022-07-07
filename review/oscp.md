@@ -26,9 +26,9 @@ I’m sure the vast majority have already heard of Hack The Box. It’s a great 
 
 ![oscp-box](/images/oscp/oscp(box).jpeg)
 
-## Ippsec Videos
 
-> ![ippsec-video](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+## Ippsec Videos [ippsec-video](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+
 
 I think this is one of the most crucial things you can do, watch IppSec’s videos in your free time, even boxes that would be considered too hard for OSCP. You could learn something from a harder box and apply it during your exam. You’ll also be able to see how he enumerates each port/service and add that to your methodology. I would suggest first attempting the boxes before watching the IppSec tutorials, especially for the more OSCP-esque boxes. Best of all it’s free!.
 
@@ -39,6 +39,11 @@ NOTE: I took the old version of the PWK, they updated the course just after I bo
 PWK is the course for OSCP from Offensive Security. In the end I only completed around 33 boxes, 2 of which are part of the “Big Four”. Some of the machines in the course were very old so they had multiple ways to get shells. This made it difficult to differentiate what the intended route was supposed to be; however, if that method gets you a shell, then I guess it’s good enough. I tried to avoid metasploit, but I did end up using it on a few boxes.
 
 I didn’t end up submitting the lab report and exercises as there were just too many exercises. However, I would probably suggest doing so if you have the time; those 5 extra points could be crucial.
+
+## Tools 
+
+- [Tib3rius’ Privilege Escalation courses](https://www.udemy.com/course/windows-privilege-escalation/?referralCode=9A533B41ECB74227E574)
+
 
 
 
