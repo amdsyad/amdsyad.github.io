@@ -22,7 +22,7 @@ I have worked in InfoSec for around 2 years.I felt like doing OSCP would better 
 I will go into some more detail about these resources after; however, I used Virtual Hacking Labs, Hack the Box, PWK, Ippsec Videos and Tib3rius’ privilege escalation courses.
 
 
-## Virtual Hacking Labs
+## [Virtual Hacking Labs](./vhl.md)
 
 
 
