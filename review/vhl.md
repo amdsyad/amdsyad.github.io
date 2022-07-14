@@ -1,3 +1,4 @@
+29/3/2020
 
 # Review Virtual Hacking Lab (VHL)
 
@@ -11,7 +12,7 @@ You will be given three options for the pricing. If you want to get VHL certifie
 
 ![vhl-price](/images/vhl/vhl(pirce).png)
 
-It is a self-paced course so you can learn anytime when you are free. If you buy the 31 days or 93 days , you will also get a PDF version of the course so you can read it while offline.
+It is a self-paced course so you can learn anytime when you are free. If you buy the 31 days or 93 days, you will also get a PDF version of the course so you can read it while offline.
 
 
 ## Getting Started
