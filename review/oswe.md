@@ -46,13 +46,33 @@ My first scripting code xD
 ![oswe-first-code](/images/oswe/first-script.png)
 
 
-### 4th steps in lab oswe
+### 4th steps in the lab oswe
 
 When i got access the lab and material i started to reading the material and started to approach slow by slow don't need to rush. I started watch the video and read
 the pdf when i dont understand what inside the video i try to read slow by slow in the pdf and at the same time i started doing the lab machine. After almost complete
 the lab i started to solve the extra miles on every chapter but unfortunately i'm not able to complete all extra miles just complete 45% over 100%. Beside that, i also 
-practice my scripting code using python3 because in module you will learn python2 so you need to convert the exploit code to python3. My approach in weekday trying to read the
-pdf and watch the video on weekend i started to solve the challenge inside the module because on weekend i can spent for 8-9 hours for study and practice my scripting and automation.
+practice my scripting code using python3 because in module you will learn python2 so you need to convert the exploit code to python3. My approach in weekday trying 
+to read the pdf and watch the video on weekend i started to solve the challenge inside the module because on weekend i can spent for 8-9 hours for study and practice 
+my scripting and automation.
+
+In the lab offsec will give you 3 machine to perform source code review without solution i'm able to complete 1 machine and able to write
+full exploit code for that machine. 
 
 
-sdas
+## Tips And Tricks
+
+- Understand what is inside the function.
+- Understand the sql query example you need to know string and int in variable inside the sql query.
+- Enable the SQL error log when perform debugging.
+- Familiar your self which **GetMapping, PostMapping, doGet , doPost,  doPut, doCopy , doDelete, doOptions**.
+
+
+## End 
+
+Thanks you for your time reading this post!.
+
+
+## Credits
+
+Special thanks to my friend who supporting me when i'm doing the certification and also thanks to jlx.  
+without you guys, I won’t be able to reach this far…
