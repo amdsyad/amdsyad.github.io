@@ -20,7 +20,7 @@ Before i enroll, i also know the oswe design to identify vulnerability on source
 
 The prerequisites look like we need to know atleas one programming language to automated our exploitation process.
 
-## My approach
+## My approach and Journey
 
 ### 1st approach
 
@@ -35,3 +35,23 @@ I completed my learning, then what i'm doing started to create one vulnerable we
 - File Upload
 - Cross site scripting (XSS)
 - Open Redirect
+
+### 3rd approach 
+
+I understand the code and how the function call inside the function and outside the function and also i know the sql query how work. Then i try to learn http request in python3 from here
+[python3 request](https://requests.readthedocs.io/en/latest/). After i learn the python requests i try to create one scripting code to perform Authentication like below :). 
+
+My first script 
+
+`proxies = {"http": "http://127.0.0.1:8080", "https": "https://127.0.0.1:8080"}
+
+print("[*] Exploit For BOX Kopi ")
+
+def login_admin(ip,username,password):
+    target = {'username': str(username),'password': password,'submit':'submit'}
+    x = sess.post('http://%s/kopi/login.php' % str(ip), target, proxies=proxies)
+    if 'Welcome User3' in x.text:
+        print("[+] Success Login And Bypass")
+    else:
+        print("[+] Failed To Login")
+`
