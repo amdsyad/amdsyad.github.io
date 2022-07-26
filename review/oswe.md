@@ -28,3 +28,10 @@ Before enroll i starting to learn programming language like PHP (Object-oriented
 
 
 ### 2nd approach
+
+I completed my learning, then what i'm doing started to create one vulnerable web application for practice my writing code skill and also i created containts vulnerability like below.
+
+- SQL Injection
+- File Upload
+- Cross site scripting (XSS)
+- Open Redirect
