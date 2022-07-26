@@ -6,7 +6,7 @@ layout: default
 
 ## [OSCP](./review/oscp.md)
 
-## OSWE
+## [OSWE](./review/oswe.md)
 
 ## OSWP
 
