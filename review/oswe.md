@@ -22,4 +22,9 @@ The prerequisites look like we need to know atleas one programming language to a
 
 ## My approach
 
-Before enroll i Starting to learn programming language like PHP (Object-oriented programming) OOP i learn from [Edvin Diaz](https://www.udemy.com/course/oop-php-object-oriented-programing-with-project-1-course/). This course will teach you how to create a web application using oop style and also include the CRUD part
+### 1st approach
+
+Before enroll i starting to learn programming language like PHP (Object-oriented programming) OOP i learn from [Edvin Diaz](https://www.udemy.com/course/oop-php-object-oriented-programing-with-project-1-course/). This course will teach you how to create a web application using oop style and also include the CRUD part.
+
+
+### 2nd approach
