@@ -52,7 +52,7 @@ When i got access the lab and material i started to reading the material and sta
 the pdf when i dont understand what inside the video i try to read slow by slow in the pdf and at the same time i started doing the lab machine. After almost complete
 the lab i started to solve the extra miles on every chapter but unfortunately i'm not able to complete all extra miles just complete 45% over 100%. Beside that, i also 
 practice my scripting code using python3 because in module you will learn python2 so you need to convert the exploit code to python3. My approach in weekday trying 
-to read the pdf and watch the video on weekend i started to solve the challenge inside the module because on weekend i can spent for 8-9 hours for study and practice 
+to read the pdf and watch the video on weekend i started to solve the challenge inside the module because on weekend i can spent for 10-11 hours for study and practice 
 my scripting and automation.
 
 In the lab offsec will give you 3 machine to perform source code review without solution i'm able to complete 1 machine and able to write
