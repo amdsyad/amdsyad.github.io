@@ -74,5 +74,5 @@ Thanks you for your time reading this post!.
 
 ## Credits
 
-Special thanks to my friend who supporting me when i'm doing the certification and also thanks to jlx.  
+Special thanks to my friend who supporting me when i'm doing this certification and also thanks to jlx.  
 without you guys, I won’t be able to reach this far…
