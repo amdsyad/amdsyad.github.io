@@ -19,3 +19,7 @@ Before i enroll, i also know the oswe design to identify vulnerability on source
 ![oswe-pre](/images/oswe/oswe-pre.png)
 
 The prerequisites look like we need to know atleas one programming language to automated our exploitation process.
+
+## My approach
+
+Before enroll i Starting to learn programming language like PHP (Object-oriented programming) OOP i learn from [Edvin Diaz](https://www.udemy.com/course/oop-php-object-oriented-programing-with-project-1-course/). This course will teach you how to create a web application using oop style and also include the CRUD part
