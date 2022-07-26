@@ -9,7 +9,7 @@ Hi all here i will share my journey to become an “OSWE” certified holder
 
 ![oswe](/images/oswe/offsec-awae.png)
 
-Hi everyone, Today i received that i passed the oswe exam, ok let's jump into the what is my approach and how i tackle the oswe module and lab.
+Hi everyone, Today i received that i passed the oswe exam, ok let's jump into the what is my steps and how i tackle the oswe module and lab.
 
 
 ## Pre OSWE
@@ -49,5 +49,10 @@ My first scripting code xD
 ### 4th steps in lab oswe
 
 When i got access the lab and material i started to reading the material and started to approach slow by slow don't need to rush. I started watch the video and read
-the pdf when i dont understand 
+the pdf when i dont understand what inside the video i try to read slow by slow in the pdf and at the same time i started doing the lab machine. After almost complete
+the lab i started to solve the extra miles on every chapter but unfortunately i'm not able to complete all extra miles just complete 45% over 100%. Beside that, i also 
+practice my scripting code using python3 because in module you will learn python2 so you need to convert the exploit code to python3. My approach in weekday trying to read the
+pdf and watch the video on weekend i started to solve the challenge inside the module because on weekend i can spent for 8-9 hours for study and practice my scripting and automation.
 
+
+sdas
