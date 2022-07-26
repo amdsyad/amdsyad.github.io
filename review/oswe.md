@@ -15,4 +15,5 @@ Hi everyone, Today i received that i passed the oswe exam, ok let's jump into th
 ## Pre OSWE
 
 Before i enrol, i also know the oswe design to identify vulnerability on source code level and also need to automated the exploitation process. you can view the course prerequisites here
+
 ![oswe-pre](/images/oswe/oswe-pre.png)
