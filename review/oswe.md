@@ -62,7 +62,7 @@ full exploit code for that machine.
 ## Tips And Tricks
 
 - Understand what is inside the function.
-- Understand the sql query example you need to know string and int in variable inside the sql query.
+- Understand the sql query example you need to know string and int variable inside the sql query.
 - Enable the SQL error log when perform debugging.
 - Familiar your self which **GetMapping, PostMapping, doGet , doPost,  doPut, doCopy , doDelete, doOptions**.
 
