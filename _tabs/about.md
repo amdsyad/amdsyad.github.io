@@ -4,9 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hey Folks I'm syad, just normal cybersecurity guys trying to write what im interested in this field
-actually why i started to write because i dont be a forget what i did lol enjoyyyy ;)
+Hey folks! I’m Syad — just a regular cybersecurity guy sharing things I find interesting in this field.
+I started writing so I don’t forget what I’ve learned (it happens 😅). Hopefully you enjoy reading as much as I enjoy exploring.
+Enjoyyyy. 😉
 
 ## 🛠 Skills
-- Nothing special
+- Nothing special 🤞
 
