@@ -68,3 +68,6 @@ Here few step need to verified throught Mailgun before using the service
 - Here is a sample configuration set up such as **TXT** and **MX** record in the Advanced Domain Configuration section of a [Namecheap](https://www.namecheap.com/) domain.
 
 ![image](https://raw.githubusercontent.com/amdsyad/amdsyad.github.io/refs/heads/main/assets/images/namecheap.png)
+
+
+## <span style="color:#00ff88">Mail Template Setup</span>
