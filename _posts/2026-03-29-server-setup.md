@@ -17,13 +17,13 @@ Once the download is complete, extract the contents of the ZIP file to your serv
 
 ![image](https://raw.githubusercontent.com/amdsyad/amdsyad.github.io/refs/heads/main/assets/images/unzip%20the%20file.png)
 
-1. After extracting the files, ensure the GoPhish binary has the appropriate execution permissions by applying the `chmod` command.
+- After extracting the files, ensure the GoPhish binary has the appropriate execution permissions by applying the `chmod` command.
 
 ```bash
 chmod +x gophish
 ```
 
-2. Update the `config.json` file according to your environment. For now, modify the `listen_url` parameter as shown below.
+- Update the `config.json` file according to your environment. For now, modify the `listen_url` parameter as shown below.
 
 ```bash
 root@ubuntu-s-1vcpu-512mb-10gb-sgp1-01:/opt/gophish# cat config.json
@@ -52,7 +52,7 @@ root@ubuntu-s-1vcpu-512mb-10gb-sgp1-01:/opt/gophish# cat config.json
 }
 ```
 
-3. Run the GoPhish binary. From the application logs, you will be able to retrieve the default username and password required to access the GoPhish dashboard.
+- Run the GoPhish binary. From the application logs, you will be able to retrieve the default username and password required to access the GoPhish dashboard.
 
 ```bash
 root@ubuntu-s-1vcpu-512mb-10gb-sgp1-01:/opt/gophish# ./gophish
