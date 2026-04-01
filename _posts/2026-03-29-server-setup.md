@@ -65,4 +65,6 @@ Here few step need to verified throught Mailgun before using the service
 
 ![image](https://raw.githubusercontent.com/amdsyad/amdsyad.github.io/refs/heads/main/assets/images/MailGun.png)
 
-2. 
+- Here is a sample configuration set up in the Advanced Domain Configuration section of a [Namecheap](https://www.namecheap.com/) domain.
+
+![image](https://raw.githubusercontent.com/amdsyad/amdsyad.github.io/refs/heads/main/assets/images/namecheap.png)
