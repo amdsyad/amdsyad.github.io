@@ -61,10 +61,10 @@ root@ubuntu-s-1vcpu-512mb-10gb-sgp1-01:/opt/gophish# ./gophish
 
 Here few step need to verified throught Mailgun before using the service
 
-- Please ensure that all required fields listed below are properly added to your domain configuration. This includes records such as **TXT** and **MX**, which can typically be found under the Advanced Domain Configuration section.
+- Please ensure that all required fields listed below are properly added to your domain configuration.
 
 ![image](https://raw.githubusercontent.com/amdsyad/amdsyad.github.io/refs/heads/main/assets/images/MailGun.png)
 
-- Here is a sample configuration set up in the Advanced Domain Configuration section of a [Namecheap](https://www.namecheap.com/) domain.
+- Here is a sample configuration set up such as **TXT** and **MX** record in the Advanced Domain Configuration section of a [Namecheap](https://www.namecheap.com/) domain.
 
 ![image](https://raw.githubusercontent.com/amdsyad/amdsyad.github.io/refs/heads/main/assets/images/namecheap.png)
