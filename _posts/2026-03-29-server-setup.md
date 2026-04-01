@@ -55,3 +55,6 @@ root@ubuntu-s-1vcpu-512mb-10gb-sgp1-01:/opt/gophish# cat config.json
 ```bash
 root@ubuntu-s-1vcpu-512mb-10gb-sgp1-01:/opt/gophish# ./gophish
 ```
+
+## <span style="color:#00ff88">MailServer</span>
+- Mailgun is integrated as the email delivery service to send phishing emails.
