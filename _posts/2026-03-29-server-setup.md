@@ -51,3 +51,9 @@ root@ubuntu-s-1vcpu-512mb-10gb-sgp1-01:/opt/gophish# cat config.json
         }
 }
 ```
+
+3. Run the GoPhish binary. From the application logs, you will be able to retrieve the default username and password required to access the GoPhish dashboard.
+
+```bash
+root@ubuntu-s-1vcpu-512mb-10gb-sgp1-01:/opt/gophish# ./gophish
+```
