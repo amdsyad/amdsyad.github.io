@@ -11,3 +11,8 @@ Hey folks, I’m going to walk you through how to set up a phishing simulation s
 This setup is designed to help red teamers deploy and manage phishing campaigns effectively using GoPhish integrated with a fully configured mail server, including domain and server setup.
 
 ## <span style="color:#00ff88">GoPhish</span>
+
+First of all we need to download the zip file of gophish from here [GoPhish](https://https://github.com/gophish/gophish/releases)
+After download we can extract the zip file as shown in below image.
+
+![image]()
