@@ -12,7 +12,7 @@ This setup is designed to help red teamers deploy and manage phishing campaigns 
 
 ## <span style="color:#00ff88">GoPhish</span>
 
-First of all we need to download the zip file of gophish from here [GoPhish](https://https://github.com/gophish/gophish/releases)
-After download we can extract the zip file as shown in below image.
+First, download the GoPhish release package from the official GitHub repository [GoPhish](https://https://github.com/gophish/gophish/releases)
+Once the download is complete, extract the contents of the ZIP file to your server.
 
 ![image]()
