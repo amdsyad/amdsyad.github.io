@@ -12,7 +12,42 @@ This setup is designed to help red teamers deploy and manage phishing campaigns 
 
 ## <span style="color:#00ff88">GoPhish</span>
 
-First, download the GoPhish release package from the official GitHub repository [GoPhish](https://https://github.com/gophish/gophish/releases)
+First, download the GoPhish release package from the official GitHub repository [GoPhish](https://github.com/gophish/gophish/releases)
 Once the download is complete, extract the contents of the ZIP file to your server.
 
 ![image](https://raw.githubusercontent.com/amdsyad/amdsyad.github.io/refs/heads/main/assets/images/unzip%20the%20file.png)
+
+1. After extracting the files, ensure the GoPhish binary has the appropriate execution permissions by applying the `chmod` command.
+
+```bash
+chmod +x gophish
+```
+
+2. Update the `config.json` file according to your environment. For now, modify the `listen_url` parameter as shown below.
+
+```bash
+root@ubuntu-s-1vcpu-512mb-10gb-sgp1-01:/opt/gophish# cat config.json
+{
+        "admin_server": {
+                "listen_url": "0.0.0.0:3333",
+                "use_tls": true,
+                "cert_path": "gophish_admin.crt",
+                "key_path": "gophish_admin.key",
+                "trusted_origins": []
+        },
+        "phish_server": {
+                "listen_url": "0.0.0.0:80",
+                "use_tls": false,
+                "cert_path": "example.crt",
+                "key_path": "example.key"
+        },
+        "db_name": "sqlite3",
+        "db_path": "gophish.db",
+        "migrations_prefix": "db/db_",
+        "contact_address": "",
+        "logging": {
+                "filename": "",
+                "level": ""
+        }
+}
+```
