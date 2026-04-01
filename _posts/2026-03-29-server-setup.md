@@ -70,4 +70,4 @@ Here few step need to verified throught Mailgun before using the service
 ![image](https://raw.githubusercontent.com/amdsyad/amdsyad.github.io/refs/heads/main/assets/images/namecheap.png)
 
 
-## <span style="color:#00ff88">Mail Template</span>
+## <span style="color:#00ff88">Mail Template Setup</span>
