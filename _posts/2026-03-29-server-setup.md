@@ -57,4 +57,10 @@ root@ubuntu-s-1vcpu-512mb-10gb-sgp1-01:/opt/gophish# ./gophish
 ```
 
 ## <span style="color:#00ff88">MailServer</span>
-- [Mailgun](https://www.mailgun.com/) is integrated as the email delivery service to send phishing emails..
+[Mailgun](https://www.mailgun.com/) is integrated as the email delivery service to send phishing emails..
+
+Here few step need to verified throught Mailgun before using the service
+
+1. Please ensure that all required fields listed below are properly added to your domain configuration. This includes records such as **TXT** and **MX**, which can typically be found under the Advanced Domain Configuration section.
+
+2. 
