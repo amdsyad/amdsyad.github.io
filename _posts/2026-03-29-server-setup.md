@@ -21,9 +21,10 @@ Once the download is complete, extract the contents of the ZIP file to your serv
 
 ```bash
 chmod +x gophish
-```
+
 
 2. Update the `config.json` file according to your environment. For now, modify the `listen_url` parameter as shown below.
+
 
 ```bash
 root@ubuntu-s-1vcpu-512mb-10gb-sgp1-01:/opt/gophish# cat config.json
@@ -50,10 +51,9 @@ root@ubuntu-s-1vcpu-512mb-10gb-sgp1-01:/opt/gophish# cat config.json
                 "level": ""
         }
 }
-```
+
 
 3. Run the GoPhish binary. From the application logs, you will be able to retrieve the default username and password required to access the GoPhish dashboard.
 
 ```bash
 root@ubuntu-s-1vcpu-512mb-10gb-sgp1-01:/opt/gophish# ./gophish
-```
