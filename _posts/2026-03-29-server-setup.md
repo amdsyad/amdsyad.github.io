@@ -62,5 +62,6 @@ root@ubuntu-s-1vcpu-512mb-10gb-sgp1-01:/opt/gophish# ./gophish
 Here few step need to verified throught Mailgun before using the service
 
 1. Please ensure that all required fields listed below are properly added to your domain configuration. This includes records such as **TXT** and **MX**, which can typically be found under the Advanced Domain Configuration section.
+![image](https://raw.githubusercontent.com/amdsyad/amdsyad.github.io/refs/heads/main/assets/images/MailGun.png)
 
 2. 
