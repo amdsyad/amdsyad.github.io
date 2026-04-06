@@ -124,3 +124,8 @@ Here is an example of HTML code and its corresponding page rendering, designed f
 </body>
 </html>
 ```
+Here is a sample of the rendered HTML page, illustrating how the final template appears when viewed by the recipient. This design represents the completed output that will be used in the phishing campaign simulation.
+
+![image](https://raw.githubusercontent.com/amdsyad/amdsyad.github.io/refs/heads/main/assets/images/Phish.png)
+
+
