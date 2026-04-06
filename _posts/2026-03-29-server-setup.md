@@ -74,11 +74,11 @@ Here few step need to verified throught Mailgun before using the service
 
 Here is a sample GoPhish dashboard. From this interface, you can configure key components such as the **Sending Profile**, **Email Template**, and **Landing Page**.
 
+![image](https://raw.githubusercontent.com/amdsyad/amdsyad.github.io/refs/heads/main/assets/images/GoPhishdashboard.png)
+
 For the purpose of this demonstration, the focus will be on creating a custom email template. The Sending Profile can be set up separately using your SMTP mail service provider, such as Mailgun, as configured earlier. 
 
 Here is an example of HTML code and its corresponding page rendering, designed for a phishing campaign simulation.
-
-
 
 ```html
 <!DOCTYPE html>
