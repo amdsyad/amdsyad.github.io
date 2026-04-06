@@ -80,7 +80,7 @@ Here is an example of HTML code and its corresponding page rendering, designed f
 
 ![image]()
 
-`code
+```html
 <!DOCTYPE html>
 <html>
 <head><meta charset="UTF-8"/>
@@ -123,5 +123,4 @@ Here is an example of HTML code and its corresponding page rendering, designed f
 <p>{{.Tracker}}</p>
 </body>
 </html>
-
-`
+```
