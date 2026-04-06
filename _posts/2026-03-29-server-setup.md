@@ -72,7 +72,56 @@ Here few step need to verified throught Mailgun before using the service
 
 ## <span style="color:#00ff88">Mail Template Setup</span>
 
-Here is a sample GoPhish dashboard. From this interface, you can configure key components such as the Sending Profile, Email Template, and Landing Page.
+Here is a sample GoPhish dashboard. From this interface, you can configure key components such as the **Sending Profile**, **Email Template**, and **Landing Page**.
 
 For the purpose of this demonstration, the focus will be on creating a custom email template. The Sending Profile can be set up separately using your SMTP mail service provider, such as Mailgun, as configured earlier. 
 
+Here is an example of HTML code and its corresponding page rendering, designed for a phishing campaign simulation.
+
+![image]()
+
+`code
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"/>
+	<title>Google Drive Backup Failure</title>
+</head>
+<body style="margin:0; padding:0; font-family:Segoe UI, Arial, sans-serif; background-color:#f4f6f8; color:#323130;">
+<table bgcolor="#f4f6f8" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" style="padding:20px;">
+			<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" style="border-radius:8px; box-shadow:0 2px 4px rgba(0,0,0,.1);" width="600"><!-- Logo -->
+				<tbody>
+					<tr>
+						<td align="center" style="padding:20px; border-bottom:1px solid #e1e1e1;"><img alt="Google" src="" style="display:block;" width="120" /></td>
+					</tr>
+					<!-- Body -->
+					<tr>
+						<td style="padding:20px; font-size:14px; line-height:1.6; color:#323130;">
+						<p>Dear Staff,</p>
+
+						<p>Our system has detected that your Google Drive backup was not completed successfully. As a result, some of your files and documents may be at risk of being permanently lost.</p>
+
+						<p>To protect your files and ensure your backup is complete, please click the link below:</p>
+
+						<p style="text-align:center; margin:30px 0;"><a href="{{.URL}}" style="background-color:#1a73e8; color:#ffffff; padding:12px 20px; text-decoration:none; border-radius:4px; font-weight:600; font-size:14px; display:inline-block;">Complete Google Drive Backup Now </a></p>
+
+						<p><strong>Important:</strong> If this issue is not resolved within 24 hours, your files may be deleted permanently and recovery will not be possible.</p>
+
+						<p>Best regards,<br />
+						IT Support</p>
+						<img alt="" src="" style="display: none" /></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>{{.Tracker}}</p>
+</body>
+</html>
+
+`
