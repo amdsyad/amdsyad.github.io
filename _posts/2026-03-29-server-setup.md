@@ -71,3 +71,8 @@ Here few step need to verified throught Mailgun before using the service
 
 
 ## <span style="color:#00ff88">Mail Template Setup</span>
+
+Here is a sample GoPhish dashboard. From this interface, you can configure key components such as the Sending Profile, Email Template, and Landing Page.
+
+For the purpose of this demonstration, the focus will be on creating a custom email template. The Sending Profile can be set up separately using your SMTP mail service provider, such as Mailgun, as configured earlier. 
+
