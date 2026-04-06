@@ -80,7 +80,7 @@ Here is an example of HTML code and its corresponding page rendering, designed f
 
 
 
-```console
+```html
 <!DOCTYPE html>
 <html>
 <head><meta charset="UTF-8"/>
