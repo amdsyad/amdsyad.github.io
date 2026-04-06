@@ -131,7 +131,7 @@ Here is a sample of the rendered HTML page, illustrating how the final template 
 
 ### Finally
 
-That’s all for now. I’ll update the blog as I discover more insights and techniques worth sharing. I already have a few ideas in mind particularly around Microsoft themed phishing simulations which I plan to cover in a future post.
+That’s all for now. I’ll update the blog as I discover more insights and techniques worth sharing. I already have a few ideas in mind particularly related to Microsoft  phishing simulations which I plan to cover in a future post.
 
 
 If you’re interested in learning more about how to use GoPhish, you can explore the official documentation [here](https://docs.getgophish.com/user-guide)
