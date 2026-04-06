@@ -78,7 +78,7 @@ For the purpose of this demonstration, the focus will be on creating a custom em
 
 Here is an example of HTML code and its corresponding page rendering, designed for a phishing campaign simulation.
 
-![image]()
+
 
 ```console
 <!DOCTYPE html>
